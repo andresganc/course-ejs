@@ -1,2 +1,2 @@
 # course-ejs
-Course NC EJS - Template Engines
+Course NC - EJS Template Engines
